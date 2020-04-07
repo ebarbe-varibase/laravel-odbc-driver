@@ -1,17 +1,17 @@
 {
-    "name": "agomez/laravel-odbc-driver",
-    "description": "ODBC driver for Laravel 5.x",
+    "name": "ebarbe-varibase/laravel-odbc-driver",
+    "description": "ODBC driver for Laravel 5.5+",
     "type": "library",
     "keywords": ["odbc", "driver", "database"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Adrian Gomez",
-            "email": "adriangomez.cl@gmail.com"
+            "name": "Edouard Barbé",
+            "email": "ebarbe@varibase.com"
         }
     ],
     "require": {
-        "php": "^5.3 || ^7.0"
+        "php": ">=5.3"
     },
     "autoload": {
         "psr-0": {
